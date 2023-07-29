@@ -1,2 +1,2 @@
 # Food
-https://github.com/ranje-dotcom/Food
+https://ranje-dotcom.github.io/Food/
